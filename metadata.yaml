@@ -1,0 +1,30 @@
+_repo: Poesie-scelte_17671
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pellico, Silvio
+    birthdate: 1789
+    deathdate: 1854
+    gutenberg_agent_id: '1025'
+    url: http://www.gutenberg.org/2009/agents/1025
+    wikipedia:
+    - http://it.wikipedia.org/wiki/Silvio_Pellico
+    - http://en.wikipedia.org/wiki/Silvio_Pellico
+description: ''
+gutenberg_bookshelf: IT Poesia
+gutenberg_issued: '2006-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17671'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: Poesie scelte
+url: http://www.gutenberg.org/ebooks/17671
